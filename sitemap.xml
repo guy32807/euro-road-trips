@@ -1,0 +1,46 @@
+ -->
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://guy32807.github.io/road-trip-planner-europe/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guy32807.github.io/road-trip-planner-europe/?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://guy32807.github.io/road-trip-planner-europe/?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://guy32807.github.io/road-trip-planner-europe/?lng=de"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://guy32807.github.io/road-trip-planner-europe/?lng=es"/>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <url>
+    <loc>https://guy32807.github.io/road-trip-planner-europe/#/destinations</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guy32807.github.io/road-trip-planner-europe/#/destinations?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://guy32807.github.io/road-trip-planner-europe/#/destinations?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://guy32807.github.io/road-trip-planner-europe/#/destinations?lng=de"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://guy32807.github.io/road-trip-planner-europe/#/destinations?lng=es"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://guy32807.github.io/road-trip-planner-europe/#/road-trips</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guy32807.github.io/road-trip-planner-europe/#/road-trips?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://guy32807.github.io/road-trip-planner-europe/#/road-trips?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://guy32807.github.io/road-trip-planner-europe/#/road-trips?lng=de"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://guy32807.github.io/road-trip-planner-europe/#/road-trips?lng=es"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>https://guy32807.github.io/road-trip-planner-europe/#/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://guy32807.github.io/road-trip-planner-europe/#/blog?lng=en"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://guy32807.github.io/road-trip-planner-europe/#/blog?lng=fr"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://guy32807.github.io/road-trip-planner-europe/#/blog?lng=de"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://guy32807.github.io/road-trip-planner-europe/#/blog?lng=es"/>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/euro-road-trips/static/css/main.0f8488ad.css",
+    "main.js": "/euro-road-trips/static/js/main.f0afcd00.js",
+    "index.html": "/euro-road-trips/index.html",
+    "main.0f8488ad.css.map": "/euro-road-trips/static/css/main.0f8488ad.css.map",
+    "main.f0afcd00.js.map": "/euro-road-trips/static/js/main.f0afcd00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f8488ad.css",
+    "static/js/main.f0afcd00.js"
+  ]
+}

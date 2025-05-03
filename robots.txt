@@ -1,0 +1,5 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+Sitemap: https://guy32807.github.io/road-trip-planner-europe/sitemap.xml
