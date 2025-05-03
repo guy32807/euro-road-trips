@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Europäischer Roadtrip-Planer - Entdecken Sie die besten Routen",
+    "description": "Planen Sie Ihren perfekten europäischen Roadtrip mit unseren Führern, Reiserouten und Mietwagenoptionen. Erkunden Sie Großbritannien, Frankreich, Deutschland, Italien und mehr!"
+  },
+  "nav": {
+    "home": "Startseite",
+    "destinations": "Reiseziele",
+    "roadTrips": "Roadtrips",
+    "carRental": "Autovermietung",
+    "blog": "Blog",
+    "language": "Sprache"
+  },
+  "hero": {
+    "title": "Entdecken Sie Europa auf der Straße",
+    "subtitle": "Unvergessliche Reisen durch historische Landschaften und charmante Dörfer",
+    "cta": "Planen Sie Ihre Reise"
+  },
+  "destinations": {
+    "title": "Beliebte Reiseziele",
+    "uk": "Großbritannien",
+    "france": "Frankreich",
+    "germany": "Deutschland",
+    "italy": "Italien",
+    "spain": "Spanien",
+    "viewAll": "Alle Reiseziele anzeigen"
+  },
+  "featuredTrips": {
+    "title": "Ausgewählte Roadtrips",
+    "ukCoastline": {
+      "title": "UK Küstenabenteuer",
+      "description": "Erkunden Sie die atemberaubenden Küsten Großbritanniens von Cornwall bis zu den schottischen Highlands.",
+      "duration": "14 Tage",
+      "distance": "1.900 km"
+    },
+    "frenchRiviera": {
+      "title": "Französische Riviera",
+      "description": "Fahren Sie entlang der glamourösen französischen Riviera von Marseille nach Monaco.",
+      "duration": "7 Tage",
+      "distance": "400 km"
+    },
+    "germanicRoute": {
+      "title": "Romantische Straße, Deutschland",
+      "description": "Reise durch mittelalterliche Städte und märchenhafte Schlösser in Bayern.",
+      "duration": "10 Tage",
+      "distance": "560 km"
+    },
+    "viewDetails": "Details anzeigen"
+  },
+  "cta": {
+    "title": "Bereit für die Straße?",
+    "description": "Finden Sie den perfekten Mietwagen für Ihr europäisches Abenteuer.",
+    "button": "Automieten vergleichen"
+  },
+  "whyChoose": {
+    "title": "Warum uns wählen",
+    "bestPrices": {
+      "title": "Bestpreis-Garantie",
+      "description": "Wir vergleichen Preise von mehreren Anbietern, um Ihnen das beste Angebot zu sichern."
+    },
+    "wideSelection": {
+      "title": "Große Auswahl",
+      "description": "Von Kompaktwagen bis zu Luxusfahrzeugen finden Sie das perfekte Auto für Ihre Reise."
+    },
+    "localSupport": {
+      "title": "Lokaler Support",
+      "description": "24/7 Kundenservice in Ihrer Sprache in ganz Europa."
+    },
+    "freeAmendments": {
+      "title": "Kostenlose Änderungen",
+      "description": "Ändern Sie Ihre Buchungsdetails ohne zusätzliche Gebühren."
+    }
+  },
+  "testimonials": {
+    "title": "Was unsere Reisenden sagen",
+    "readMore": "Mehr Bewertungen lesen"
+  },
+  "blog": {
+    "title": "Roadtrip-Tipps & Inspiration",
+    "readMore": "Weiterlesen",
+    "viewAll": "Alle Artikel anzeigen"
+  },
+  "footer": {
+    "about": {
+      "title": "Über Uns",
+      "description": "European Road Trip Planners hilft Reisenden, die besten europäischen Reiseziele mit detaillierten Reiseführern und Mietwagendeals zu entdecken."
+    },
+    "quickLinks": {
+      "title": "Schnelllinks",
+      "destinations": "Reiseziele",
+      "carRental": "Autovermietung",
+      "routePlanner": "Routenplaner",
+      "travelGuides": "Reiseführer",
+      "travelTips": "Reisetipps"
+    },
+    "destinations": {
+      "title": "Beliebte Reiseziele",
+      "italy": "Italien",
+      "france": "Frankreich",
+      "spain": "Spanien",
+      "germany": "Deutschland",
+      "uk": "Vereinigtes Königreich",
+      "portugal": "Portugal"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "address": "Adresse"
+    },
+    "legal": {
+      "privacyPolicy": "Datenschutzrichtlinie",
+      "termsOfService": "Nutzungsbedingungen",
+      "disclaimer": "Haftungsausschluss"
+    },
+    "copyright": "© 2025 European Road Trip Planner. Alle Rechte vorbehalten.",
+    "socialMedia": "Folgen Sie uns auf"
+  }
+}

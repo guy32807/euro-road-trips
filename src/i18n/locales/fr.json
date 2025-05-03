@@ -1,0 +1,199 @@
+{
+  "siteMetadata": {
+    "title": "Planificateur de Road Trip en Europe | Location de Voitures & Itinéraires",
+    "description": "Planifiez votre road trip à travers l'Europe avec nos itinéraires recommandés, conseils pour la location de voiture et guides de voyage détaillés.",
+    "author": "European Road Trip Planner"
+  },
+  "header": {
+    "home": "Accueil",
+    "rentCar": "Louer une Voiture",
+    "routes": "Itinéraires",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "aboutUs": "À Propos",
+    "contact": "Contact",
+    "languageSelector": "Choisir la Langue"
+  },
+  "nav": {
+    "home": "Accueil",
+    "destinations": "Destinations",
+    "roadTrips": "Road Trips",
+    "rentCar": "Louer une Voiture",
+    "carRental": "Location de Voiture",
+    "blog": "Blog",
+    "about": "À Propos",
+    "contact": "Contact",
+    "language": "Langue",
+    "search": "Rechercher"
+  },
+  "hero": {
+    "title": "Explorez l'Europe en Voiture",
+    "subtitle": "Planifiez votre voyage parfait avec les meilleurs itinéraires et offres de location de voiture",
+    "searchLabel": "Trouvez la voiture parfaite pour votre voyage",
+    "pickupLocation": "Lieu de prise en charge",
+    "dropoffLocation": "Lieu de restitution",
+    "pickupDate": "Date de prise en charge",
+    "dropoffDate": "Date de restitution",
+    "searchButton": "Rechercher des Voitures",
+    "popularLocations": "Destinations Populaires :",
+    "london": "Londres",
+    "paris": "Paris",
+    "barcelona": "Barcelone",
+    "rome": "Rome",
+    "berlin": "Berlin"
+  },
+  "destinations": {
+    "title": "Destinations Populaires",
+    "uk": "Royaume-Uni",
+    "france": "France",
+    "germany": "Allemagne",
+    "italy": "Italie",
+    "spain": "Espagne",
+    "viewAll": "Voir Toutes les Destinations"
+  },
+  "featuredTrips": {
+    "title": "Road Trips en Vedette",
+    "ukCoastline": {
+      "title": "Aventure Côtière au Royaume-Uni",
+      "description": "Explorez les côtes magnifiques du Royaume-Uni, des Cornouailles aux Highlands écossais.",
+      "duration": "14 jours",
+      "distance": "1 900 km"
+    },
+    "frenchRiviera": {
+      "title": "Côte d'Azur",
+      "description": "Conduisez le long de la glamour Côte d'Azur de Marseille à Monaco.",
+      "duration": "7 jours",
+      "distance": "400 km"
+    },
+    "germanicRoute": {
+      "title": "Route Romantique, Allemagne",
+      "description": "Voyage à travers des villes médiévales et des châteaux de conte de fées en Bavière.",
+      "duration": "10 jours",
+      "distance": "560 km"
+    },
+    "viewDetails": "Voir les Détails"
+  },
+  "cta": {
+    "title": "Prêt à Prendre la Route?",
+    "description": "Trouvez la voiture de location parfaite pour votre aventure européenne.",
+    "button": "Comparer les Prix des Voitures"
+  },
+  "whyChoose": {
+    "title": "Pourquoi Nous Choisir",
+    "bestPrices": {
+      "title": "Garantie du Meilleur Prix",
+      "description": "Nous comparons les prix de plusieurs fournisseurs pour vous assurer la meilleure offre."
+    },
+    "wideSelection": {
+      "title": "Large Sélection",
+      "description": "Des voitures compactes aux véhicules de luxe, trouvez la voiture parfaite pour votre voyage."
+    },
+    "localSupport": {
+      "title": "Support Local",
+      "description": "Service client 24/7 dans votre langue partout en Europe."
+    },
+    "freeAmendments": {
+      "title": "Modifications Gratuites",
+      "description": "Modifiez les détails de votre réservation sans frais supplémentaires."
+    }
+  },
+  "testimonials": {
+    "title": "Ce que Disent Nos Voyageurs",
+    "readMore": "Lire Plus d'Avis"
+  },
+  "blog": {
+    "title": "Conseils et Inspiration pour Road Trip",
+    "readMore": "Lire Plus",
+    "viewAll": "Voir Tous les Articles"
+  },
+  "footer": {
+    "about": {
+      "title": "À Propos",
+      "description": "European Road Trip Planners aide les voyageurs à découvrir les meilleures destinations européennes avec des guides détaillés et des offres de location de voiture."
+    },
+    "quickLinks": {
+      "title": "Liens Rapides",
+      "destinations": "Destinations",
+      "carRental": "Location de Voiture",
+      "routePlanner": "Planificateur d'Itinéraire",
+      "travelGuides": "Guides de Voyage",
+      "travelTips": "Conseils de Voyage"
+    },
+    "destinations": {
+      "title": "Destinations Populaires",
+      "italy": "Italie",
+      "france": "France",
+      "spain": "Espagne",
+      "germany": "Allemagne",
+      "uk": "Royaume-Uni",
+      "portugal": "Portugal"
+    },
+    "contact": {
+      "title": "Contactez-nous",
+      "email": "Email",
+      "phone": "Téléphone",
+      "address": "Adresse"
+    },
+    "legal": {
+      "privacyPolicy": "Politique de Confidentialité",
+      "termsOfService": "Conditions d'Utilisation",
+      "disclaimer": "Mentions Légales"
+    },
+    "copyright": "© 2025 European Road Trip Planner. Tous droits réservés.",
+    "socialMedia": "Suivez-nous sur"
+  },
+  "seo": {
+    "structuredData": {
+      "organizationType": "TravelAgency",
+      "name": "Planificateur de Road Trip Européen",
+      "description": "Expert en planification de road trips européens avec options de location de voiture et itinéraires détaillés.",
+      "url": "https://guy32807.github.io/road-trip-planner-europe/",
+      "telephone": "+44 123 456 7890",
+      "email": "info@roadtripplanner.eu"
+    }
+  },
+  "share": {
+    "title": "Partager cette page",
+    "facebook": "Partager sur Facebook",
+    "twitter": "Partager sur Twitter",
+    "pinterest": "Enregistrer sur Pinterest"
+  },
+  "notFound": {
+    "title": "Page Non Trouvée",
+    "subtitle": "Désolé, la page que vous recherchez n'existe pas.",
+    "homeLink": "Retour à l'Accueil"
+  },
+  "about": {
+    "title": "À Propos",
+    "mission": {
+      "title": "Notre Mission",
+      "content": "European Road Trip Planner se consacre à aider les voyageurs à découvrir la beauté de l'Europe grâce à la liberté d'un road trip. Nous croyons que l'exploration en voiture offre des expériences uniques qui ne peuvent pas être vécues par d'autres moyens de transport."
+    },
+    "story": {
+      "title": "Notre Histoire",
+      "content": "Notre aventure a commencé en 2020 lorsqu'un groupe de voyageurs européens passionnés a décidé de partager leur expérience et leurs connaissances pour aider les autres à planifier le parfait voyage en voiture à travers l'Europe."
+    },
+    "team": {
+      "title": "Notre Équipe",
+      "content": "Notre équipe est composée de voyageurs expérimentés, d'écrivains et de développeurs passionnés par l'exploration et la découverte. Nous venons de différents pays européens, apportant une perspective locale à nos guides et conseils."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "subtitle": "Vous avez des questions ou des commentaires ? Nous sommes là pour vous aider.",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "subject": "Sujet",
+      "message": "Message",
+      "submit": "Envoyer"
+    },
+    "info": {
+      "title": "Informations de Contact",
+      "email": "info@europeanroadtrip.com",
+      "phone": "+33 1 23 45 67 89",
+      "address": "123 Rue Principale, Paris, France"
+    },
+    "success": "Merci ! Votre message a été envoyé avec succès."
+  }
+}

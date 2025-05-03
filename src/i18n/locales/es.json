@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "title": "Planificador de Viajes por Carretera Europeos - Descubre las Mejores Rutas",
+    "description": "Planifica tu perfecto viaje por carretera europeo con nuestras guías, itinerarios y opciones de alquiler de coches. ¡Explora Reino Unido, Francia, Alemania, Italia y más!"
+  },
+  "nav": {
+    "home": "Inicio",
+    "destinations": "Destinos",
+    "roadTrips": "Rutas en Coche",
+    "carRental": "Alquiler de Coches",
+    "blog": "Blog",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Descubre Europa por Carretera",
+    "subtitle": "Viajes inolvidables a través de paisajes históricos y encantadores pueblos",
+    "cta": "Planifica Tu Viaje"
+  },
+  "destinations": {
+    "title": "Destinos Populares",
+    "uk": "Reino Unido",
+    "france": "Francia",
+    "germany": "Alemania",
+    "italy": "Italia",
+    "spain": "España",
+    "viewAll": "Ver Todos los Destinos"
+  },
+  "featuredTrips": {
+    "title": "Rutas Destacadas",
+    "ukCoastline": {
+      "title": "Aventura Costera en el Reino Unido",
+      "description": "Explora las impresionantes costas del Reino Unido desde Cornualles hasta las Tierras Altas de Escocia.",
+      "duration": "14 días",
+      "distance": "1.900 km"
+    },
+    "frenchRiviera": {
+      "title": "Riviera Francesa",
+      "description": "Conduce a lo largo de la glamurosa Riviera Francesa desde Marsella hasta Mónaco.",
+      "duration": "7 días",
+      "distance": "400 km"
+    },
+    "germanicRoute": {
+      "title": "Ruta Romántica, Alemania",
+      "description": "Viaje a través de pueblos medievales y castillos de cuento de hadas en Baviera.",
+      "duration": "10 días",
+      "distance": "560 km"
+    },
+    "viewDetails": "Ver Detalles"
+  },
+  "cta": {
+    "title": "¿Listo para Tomar la Carretera?",
+    "description": "Encuentra el coche de alquiler perfecto para tu aventura europea.",
+    "button": "Comparar Precios de Coches"
+  },
+  "whyChoose": {
+    "title": "Por Qué Elegirnos",
+    "bestPrices": {
+      "title": "Garantía de Mejor Precio",
+      "description": "Comparamos precios de múltiples proveedores para asegurarte la mejor oferta."
+    },
+    "wideSelection": {
+      "title": "Amplia Selección",
+      "description": "Desde coches compactos hasta vehículos de lujo, encuentra el coche perfecto para tu viaje."
+    },
+    "localSupport": {
+      "title": "Soporte Local",
+      "description": "Servicio al cliente 24/7 en tu idioma en toda Europa."
+    },
+    "freeAmendments": {
+      "title": "Modificaciones Gratuitas",
+      "description": "Cambia los detalles de tu reserva sin tarifas adicionales."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Viajeros",
+    "readMore": "Leer Más Opiniones"
+  },
+  "blog": {
+    "title": "Consejos e Inspiración para Viajes",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todos los Artículos"
+  },
+  "footer": {
+    "about": {
+      "title": "Sobre Nosotros",
+      "description": "European Road Trip Planners ayuda a los viajeros a descubrir los mejores destinos europeos con guías detalladas y ofertas de alquiler de coches."
+    },
+    "quickLinks": {
+      "title": "Enlaces Rápidos",
+      "destinations": "Destinos",
+      "carRental": "Alquiler de Coches",
+      "routePlanner": "Planificador de Rutas",
+      "travelGuides": "Guías de Viaje",
+      "travelTips": "Consejos de Viaje"
+    },
+    "destinations": {
+      "title": "Destinos Populares",
+      "italy": "Italia",
+      "france": "Francia",
+      "spain": "España",
+      "germany": "Alemania",
+      "uk": "Reino Unido",
+      "portugal": "Portugal"
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "email": "Email",
+      "phone": "Teléfono",
+      "address": "Dirección"
+    },
+    "legal": {
+      "privacyPolicy": "Política de Privacidad",
+      "termsOfService": "Términos de Servicio",
+      "disclaimer": "Aviso Legal"
+    },
+    "copyright": "© 2025 European Road Trip Planner. Todos los derechos reservados.",
+    "socialMedia": "Síguenos en"
+  }
+}

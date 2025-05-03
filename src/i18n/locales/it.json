@@ -1,0 +1,118 @@
+{
+  "siteMetadata": {
+    "title": "Pianificatore di Road Trip in Europa | Noleggio Auto e Percorsi",
+    "description": "Pianifica il tuo road trip attraverso l'Europa con i nostri itinerari consigliati, consigli sul noleggio auto e guide di viaggio dettagliate.",
+    "author": "European Road Trip Planner"
+  },
+  "header": {
+    "home": "Home",
+    "rentCar": "Noleggia Auto",
+    "routes": "Percorsi",
+    "destinations": "Destinazioni",
+    "blog": "Blog",
+    "aboutUs": "Chi Siamo",
+    "contact": "Contatti",
+    "languageSelector": "Seleziona Lingua"
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinazioni",
+    "rentCar": "Noleggia Auto",
+    "blog": "Blog",
+    "about": "Chi Siamo",
+    "contact": "Contatti",
+    "language": "Lingua",
+    "search": "Cerca",
+    "roadTrips": "Itinerari in Auto"
+  },
+  "footer": {
+    "about": {
+      "title": "Chi Siamo",
+      "description": "Pianificatori di Road Trip in Europa aiuta i viaggiatori a scoprire le migliori destinazioni europee con guide dettagliate e offerte di noleggio auto."
+    },
+    "quickLinks": {
+      "title": "Link Rapidi",
+      "destinations": "Destinazioni",
+      "carRental": "Noleggio Auto",
+      "routePlanner": "Pianificatore di Percorsi",
+      "travelGuides": "Guide di Viaggio",
+      "travelTips": "Consigli di Viaggio"
+    },
+    "destinations": {
+      "title": "Destinazioni Popolari",
+      "italy": "Italia",
+      "france": "Francia",
+      "spain": "Spagna",
+      "germany": "Germania",
+      "uk": "Regno Unito",
+      "portugal": "Portogallo"
+    },
+    "contact": {
+      "title": "Contattaci",
+      "email": "Email",
+      "phone": "Telefono",
+      "address": "Indirizzo"
+    },
+    "legal": {
+      "privacyPolicy": "Informativa sulla Privacy",
+      "termsOfService": "Termini di Servizio",
+      "disclaimer": "Disclaimer"
+    },
+    "copyright": "© 2025 European Road Trip Planner. Tutti i diritti riservati.",
+    "socialMedia": "Seguici su"
+  },
+  "hero": {
+    "title": "Esplora l'Europa in Auto",
+    "subtitle": "Pianifica il tuo viaggio perfetto con i migliori itinerari e offerte di noleggio auto",
+    "searchLabel": "Trova l'auto perfetta per il tuo viaggio",
+    "pickupLocation": "Luogo di ritiro",
+    "dropoffLocation": "Luogo di riconsegna",
+    "pickupDate": "Data di ritiro",
+    "dropoffDate": "Data di riconsegna",
+    "searchButton": "Cerca Auto",
+    "popularLocations": "Località Popolari:",
+    "london": "Londra",
+    "paris": "Parigi",
+    "barcelona": "Barcellona",
+    "rome": "Roma",
+    "berlin": "Berlino"
+  },
+  "notFound": {
+    "title": "Pagina Non Trovata",
+    "subtitle": "Ci dispiace, la pagina che stai cercando non esiste.",
+    "homeLink": "Torna alla Home"
+  },
+  "about": {
+    "title": "Chi Siamo",
+    "mission": {
+      "title": "La Nostra Missione",
+      "content": "European Road Trip Planner è dedicato ad aiutare i viaggiatori a scoprire la bellezza dell'Europa tramite la libertà di un road trip. Crediamo che esplorare con un'auto offra esperienze uniche che non si possono vivere con altri mezzi di trasporto."
+    },
+    "story": {
+      "title": "La Nostra Storia",
+      "content": "La nostra avventura è iniziata nel 2020 quando un gruppo di appassionati viaggiatori europei ha deciso di condividere la loro esperienza e conoscenza per aiutare altri a pianificare il viaggio perfetto in auto attraverso l'Europa."
+    },
+    "team": {
+      "title": "Il Nostro Team",
+      "content": "Il nostro team è composto da esperti viaggiatori, scrittori e sviluppatori appassionati di esplorazione e scoperta. Proveniamo da diversi paesi europei, portando una prospettiva locale alle nostre guide e consigli."
+    }
+  },
+  "contact": {
+    "title": "Contattaci",
+    "subtitle": "Hai domande o feedback? Siamo qui per aiutarti.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Oggetto",
+      "message": "Messaggio",
+      "submit": "Invia"
+    },
+    "info": {
+      "title": "Informazioni di Contatto",
+      "email": "info@europeanroadtrip.com",
+      "phone": "+39 123 456 7890",
+      "address": "Via Roma 123, Roma, Italia"
+    },
+    "success": "Grazie! Il tuo messaggio è stato inviato con successo."
+  }
+}

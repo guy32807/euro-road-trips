@@ -1,0 +1,217 @@
+{
+  "siteMetadata": {
+    "title": "European Road Trip Planner | Car Rental & Routes",
+    "description": "Plan your road trip across Europe with our recommended itineraries, car rental tips, and detailed travel guides.",
+    "author": "European Road Trip Planner"
+  },
+  "header": {
+    "home": "Home",
+    "rentCar": "Rent a Car",
+    "routes": "Routes",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "aboutUs": "About Us",
+    "contact": "Contact",
+    "languageSelector": "Select Language"
+  },
+  "meta": {
+    "title": "European Road Trip Planner - Discover the Best Routes",
+    "description": "Plan your perfect European road trip with our guides, itineraries, and car rental options. Explore the UK, France, Germany, Italy and more!",
+    "keywords": "road trip planner, European road trips, UK road trips, car rental Europe, driving in Europe, European itineraries"
+  },
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "roadTrips": "Road Trips",
+    "rentCar": "Rent a Car",
+    "carRental": "Rent a Car",
+    "blog": "Blog",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "language": "Language",
+    "search": "Search"
+  },
+  "hero": {
+    "title": "Explore Europe by Car",
+    "subtitle": "Plan your perfect journey with top routes and car rental deals",
+    "searchLabel": "Find the perfect car for your trip",
+    "pickupLocation": "Pick-up Location",
+    "dropoffLocation": "Drop-off Location",
+    "pickupDate": "Pick-up Date",
+    "dropoffDate": "Drop-off Date",
+    "searchButton": "Search Cars",
+    "popularLocations": "Popular Locations:",
+    "london": "London",
+    "paris": "Paris",
+    "barcelona": "Barcelona",
+    "rome": "Rome",
+    "berlin": "Berlin"
+  },
+  "destinations": {
+    "title": "Popular Destinations",
+    "uk": "United Kingdom",
+    "france": "France",
+    "germany": "Germany",
+    "italy": "Italy",
+    "spain": "Spain",
+    "viewAll": "View All Destinations"
+  },
+  "featuredTrips": {
+    "title": "Featured Road Trips",
+    "ukCoastline": {
+      "title": "UK Coastal Adventure",
+      "description": "Explore the stunning coastlines of the UK from Cornwall to the Scottish Highlands.",
+      "duration": "14 days",
+      "distance": "1,200 miles"
+    },
+    "frenchRiviera": {
+      "title": "French Riviera",
+      "description": "Drive along the glamorous French Riviera from Marseille to Monaco.",
+      "duration": "7 days",
+      "distance": "250 miles"
+    },
+    "germanicRoute": {
+      "title": "Romantic Road, Germany",
+      "description": "Journey through medieval towns and fairy-tale castles in Bavaria.",
+      "duration": "10 days",
+      "distance": "350 miles"
+    },
+    "viewDetails": "View Details"
+  },
+  "cta": {
+    "title": "Ready to Hit the Road?",
+    "description": "Find the perfect rental car for your European adventure.",
+    "button": "Compare Car Prices"
+  },
+  "whyChoose": {
+    "title": "Why Choose Us",
+    "bestPrices": {
+      "title": "Best Price Guarantee",
+      "description": "We compare prices from multiple providers to ensure you get the best deal."
+    },
+    "wideSelection": {
+      "title": "Wide Selection",
+      "description": "From compact cars to luxury vehicles, find the perfect car for your journey."
+    },
+    "localSupport": {
+      "title": "Local Support",
+      "description": "24/7 customer service in your language throughout Europe."
+    },
+    "freeAmendments": {
+      "title": "Free Amendments",
+      "description": "Change your booking details without any additional fees."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Travelers Say",
+    "readMore": "Read More Reviews"
+  },
+  "blog": {
+    "title": "Road Trip Tips & Inspiration",
+    "readMore": "Read More",
+    "viewAll": "View All Articles",
+    "recentPosts": "Recent Articles",
+    "popularTags": "Popular Topics",
+    "subscribe": "Subscribe to our Newsletter",
+    "subscribeButton": "Subscribe",
+    "emailPlaceholder": "Your email address",
+    "categories": "Categories",
+    "category": {
+      "ukTravel": "UK Travel",
+      "italyTravel": "Italy Travel",
+      "franceTravel": "France Travel",
+      "carRental": "Car Rental",
+      "travelTips": "Travel Tips"
+    }
+  },
+  "footer": {
+    "about": {
+      "title": "About Us",
+      "description": "European Road Trip Planners helps travelers discover the best European destinations with detailed guides and car rental deals."
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "destinations": "Destinations",
+      "carRental": "Car Rental",
+      "routePlanner": "Route Planner",
+      "travelGuides": "Travel Guides",
+      "travelTips": "Travel Tips"
+    },
+    "destinations": {
+      "title": "Popular Destinations",
+      "italy": "Italy",
+      "france": "France",
+      "spain": "Spain",
+      "germany": "Germany",
+      "uk": "United Kingdom",
+      "portugal": "Portugal"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    },
+    "legal": {
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "disclaimer": "Disclaimer"
+    },
+    "copyright": "© 2025 European Road Trip Planner. All rights reserved.",
+    "socialMedia": "Follow Us On"
+  },
+  "seo": {
+    "structuredData": {
+      "organizationType": "TravelAgency",
+      "name": "European Road Trip Planner",
+      "description": "Expert guidance for planning European road trips with car rental options and detailed itineraries.",
+      "url": "https://guy32807.github.io/road-trip-planner-europe/",
+      "telephone": "+44 123 456 7890",
+      "email": "info@roadtripplanner.eu"
+    }
+  },
+  "share": {
+    "title": "Share this page",
+    "facebook": "Share on Facebook",
+    "twitter": "Share on Twitter",
+    "pinterest": "Save to Pinterest"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "subtitle": "Sorry, the page you are looking for doesn't exist.",
+    "homeLink": "Back to Home"
+  },
+  "about": {
+    "title": "About Us",
+    "mission": {
+      "title": "Our Mission",
+      "content": "European Road Trip Planner is dedicated to helping travelers discover the beauty of Europe through the freedom of a road trip. We believe that exploring by car offers unique experiences that can't be had through other means of transportation."
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Our journey began in 2020 when a group of passionate European travelers decided to share their experience and knowledge to help others plan the perfect car journey through Europe."
+    },
+    "team": {
+      "title": "Our Team",
+      "content": "Our team is made up of experienced travelers, writers, and developers who are passionate about exploration and discovery. We come from various European countries, bringing a local perspective to our guides and advice."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions or feedback? We're here to help.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Submit"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "info@europeanroadtrip.com",
+      "phone": "+44 123 456 7890",
+      "address": "123 Main Street, London, UK"
+    },
+    "success": "Thank you! Your message has been sent successfully."
+  }
+}
